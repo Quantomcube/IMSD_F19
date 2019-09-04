@@ -1,0 +1,7 @@
+Step 1 : Start a Project
+
+Step 2 : Initalize the check box for text file
+
+Step 3 : Add GitIgnore
+
+Step 4 : Click Create Repo
